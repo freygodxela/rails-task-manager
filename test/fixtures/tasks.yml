@@ -3,11 +3,9 @@
 one:
   title: MyString
   details: MyString
-  text: MyString
   completed: false
 
 two:
   title: MyString
   details: MyString
-  text: MyString
   completed: false
